@@ -30,17 +30,17 @@ Provides you with up-to-date information about the latest Azure Guest OS release
 
 ## News updates
 
-###### **Janurary 18 2015**
-Janurary Guest OS rollout is starting Janurary 18 2016, and projected to be released on Februrary 12 2016.
+###### **January 18 2015**
+January Guest OS rollout is starting January 18 2016, and projected to be released on Februrary 12 2016.
 
-###### **Janurary 4 2016**
+###### **January 4 2016**
 November 201511-02 Guest OS was released on January 4, 2016 for deployment. This OS version is not set as the default OS for automatic update, so the provisioning time of Guest OS deployment to November 201511-02 OS version would be slightly longer. 
 
 ###### **December 18 2015**
 November 201511-02 Guest OS release date has been postponed from Dec 16 2015 to Jan 4 2016.
 
 ###### **December 9 2015**
-December Guest OS rollout is starting December 10 2015, and projected to be released on Janurary 8 2016.
+December Guest OS rollout is starting December 10 2015, and projected to be released on January 8 2016.
 
 ###### **November 12 2015**  
 On August 7, 2014, Microsoft announced that support will end for .NET Framework 4, 4.5, and 4.5.1 on January 12, 2016. It is recommended that customers and developers complete the in-place update to .NET Framework 4.5.2 by January 12, 2016 to continue receiving technical support and security updates. Visit Microsoft .NET Framework Support Lifecycle Policy for more details. 
